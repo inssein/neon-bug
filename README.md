@@ -1,6 +1,6 @@
 # Neon Bug
 
-Sample rest calls in `sample.rest` if you want to walk through each call until it breaks.
+Sample rest calls in `requests.rest` if you want to walk through each call until it breaks.
 
 I haven't yet figured out what is wrong, it feels like after it encounters a certain row, the timestamps become weird, until you acquire a new connection.
 

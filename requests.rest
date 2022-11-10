@@ -1,0 +1,34 @@
+GET http://localhost:8080/
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OmExYmRlZTBmLTZkNTItNGZhZS04ZjA5LTIxMGVkZWYzOWJlOTo6MjAyMi0xMS0wNVQwMzo1NDoxNS43NDI1NTU6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OjZmZjcwYmY2LWZjYWEtNGZiMC04YTdjLWU2NTQ2NzkyOWM5MTo6MjAyMi0xMS0wNVQwMzo1Mzo0MC41Mjg2OTA6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OjAxOGI2YWMwLTNhZmQtNDM3ZC05ZjE3LWNkNzRmODExZGI1MDo6MjAyMi0xMS0wNVQwMzo1MzowMC43MTQ1NzQ6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OjRjMDA1MjcxLWI4ZjMtNDVmYi1hNTBjLWQwYzJhM2EwYTkyMTo6MjAyMi0xMS0wNVQwMzo1MjoyMy4wNzMzNTU6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OjIyNTc5MjY2LThhNTctNGUyOC1iMGViLTdmZTg3YmU5NDNkZTo6MjAyMi0xMS0wNVQwMzo1MTo0Ny4zOTYyMTk6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OjBhOTkwMTk5LWUxYWEtNDUzOS04YjI2LTA0NTVlZGUzNTg0Mjo6MjAyMi0xMS0wNVQwMzo1MToxMi44MDY4MjY6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OmY4MjVhMzY4LTQxYTQtNDEwYy1hNGEyLTY3ZGU1ZWNjMWEyNzo6MjAyMi0xMS0wNVQwMzo1MDozNi42MDQwNzU6OjA=
+Accept: application/json
+
+###
+GET http://localhost:8080/?cursor=djE6OmVhZjRjYjc1LWU3OWMtNDVlYi04NjM2LTQyNDk0YmY2YTA3Njo6MjAyMi0xMS0wNVQwMzo0OTo1Ni44NTk1NjU6OjA=
+Accept: application/json
